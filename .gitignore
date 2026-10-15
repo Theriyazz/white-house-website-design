@@ -1,0 +1,9 @@
+# Original full-size image exports (129 MB). Optimised copies live in white-house-web/public/images.
+/Images/
+
+# Office lock files
+~$*
+
+# Local tooling
+.playwright-mcp/
+.netlify/
