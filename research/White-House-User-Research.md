@@ -313,7 +313,7 @@ The demo contains the following placeholders. Each must be confirmed or correcte
 |---|---|---|---|
 | Founding year | 1993, "33 years" | Master plan | Unverified |
 | Rating | 4.0 on 282 reviews | Master plan | Unverified |
-| Phone and WhatsApp | +91 96062 75752 | Existing scaffold | Unverified |
+| Phone and WhatsApp | +91 99740 57575 | Client | Confirmed |
 | Raopura address | Near Raopura Tower, Raopura, Vadodara 390001 | Instagram profile | Observed |
 | Alkapuri outlet | Exists; address unknown | Instagram reel caption | Needs address |
 | Store hours | 10:00 AM – 9:00 PM daily | Master plan | Unverified |

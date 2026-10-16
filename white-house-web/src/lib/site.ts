@@ -10,9 +10,9 @@ export const site = {
   years: 33, // UNVERIFIED
   rating: 4.0, // UNVERIFIED
   reviews: 282, // UNVERIFIED
-  phoneDisplay: "+91 96062 75752", // UNVERIFIED
-  phoneHref: "tel:+919606275752",
-  whatsappNumber: "919606275752", // UNVERIFIED
+  phoneDisplay: "+91 99740 57575",
+  phoneHref: "tel:+919974057575",
+  whatsappNumber: "919974057575",
   hours: "Open daily · 10:00 AM to 9:00 PM", // UNVERIFIED
   instagram: "https://www.instagram.com/whitehouseshop_vadodara/",
   facebook: "https://www.facebook.com/whitehouseshopvadodara/",
